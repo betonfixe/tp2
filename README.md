@@ -74,3 +74,5 @@ Pour récupérer les travaux sur Github nous avons vu que c’était `git pull` 
 `git log`   : Nous permet de voir les dernière modification effectué et par qui.
 
 `git push` : Contrairement à  `git pull` cale nous permet d’envoyer de notre dépôt local vers le dépôt distant.
+
+Cette commande est utilisée pour cloner un dépôt Git sur votre machine locale. `git clone git@github.com:<votre_utilisateur>/tp2.git` .
